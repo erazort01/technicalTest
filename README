@@ -1,0 +1,11 @@
+Prueba tecnica de Alejandro Quiñones Villar
+
+La tabla de ejemplo proporcionada en el ejercicio ha sido modificada, se modifica start_date y end_date a formato Timestamp
+La modificacion de las columnas de fechas se realiza por optimizacion y seguridad a la hora de realizar querys sobre ambos campos
+El formato de entrada y de salida de los datos, es el mismo proporcionado en el ejemplo de la tabla de datos.
+
+
+Se ha creado un microservicio para la prueba, con springboot 3.0.5 y java 17.
+Se han realizado test de los endpoints con JUNIT y Mockito, además de postman. 
+La coleccion de postman está en src/test/resources
+
